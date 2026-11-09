@@ -310,3 +310,18 @@ The test suite covers:
 - Undefined API routes
 
 **Latest test result:** 18 tests passed.
+
+## 📸 Application Screenshots
+
+### Login Page
+![Login Page](Screenshots/login.png)
+
+### Signup Page
+![Signup Page](Screenshots/signup.png)
+
+### Dashboard
+![Dashboard Overview](Screenshots/dashboard-1.png)
+
+![Dashboard Summary](Screenshots/dashboard-2.png)
+
+![Dashboard Readings](Screenshots/dashboard-3.png)
